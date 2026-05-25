@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm </h1>
-<p>🎓 Final Year CSE Student |
+<p>🎓 Final Year CSE Student 
   Big Data Analytics 
   🌱 Learning Java 
   Data Analytics & 
   Web Development 
-  📚 Student Developer |
+  📚 Student Developer 
   Building Real-World Projects 
   💻 Passionate About Coding & Data Analytics</p>
 <h2>🚀 Languages and Tools I Use</h2>
